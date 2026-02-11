@@ -3,6 +3,8 @@
 Prosta gra 2D stworzona w C++ z użyciem **Allegro 4**, inspirowana klasycznym Flappy Bird.  
 Obsługuje podstawową fizykę ptaka, przeszkody (rury), tło i ekran Game Over.
 
+Projekt został przygotowany w 2016 roku na dni otwarte technikum, do którego wtedy uczęszczałem w celu zachęcenia odwiedzających do wybrania naszej szkoły.
+
 ---
 
 ## Spis treści
